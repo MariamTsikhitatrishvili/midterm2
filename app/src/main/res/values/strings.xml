@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Todos</string>
+    <string name="user_id">User Id:</string>
+    <string name="name">Name:</string>
+    <string name="user_name">user name</string>
+    <string name="phone">phone</string>
+</resources>
